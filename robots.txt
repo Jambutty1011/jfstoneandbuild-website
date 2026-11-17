@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jfstoneandbuildsouthlakes.co.uk/sitemap.xml
+Sitemap: https://jfstoneandbuild.pages.dev/sitemap.xml
